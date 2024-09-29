@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # 💫 About Me: -->
-🌱 I'm currently pursuing a B-Tech in Electronics and Communication with a focus on Computer Science Engineering, Skilled in web development, with a focus on MERN stack technologies, and equipped with problem-solving and analytical abilities. 
-⚡ Proficient in front-end and back-end technologies, including React.js, Node.js, MongoDB, and Express.js.
+🌱 I'm currently pursuing a B-Tech in Electronics and Communication with a focus on Computer Science Engineering, Skilled in web development, with a focus on MERN stack technologies, and equipped with problem-solving and analytical abilities. <br>
+⚡ Proficient in front-end and back-end technologies, including React.js, Node.js, MongoDB, and Express.js. <br>
 🔭 Actively seeking opportunities to apply my skills in modern web development frameworks and contribute to impactful projects.
 <!--🔭 I’m currently working on Web Development <br>
 

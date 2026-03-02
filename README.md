@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Soni</h1>
-<h3 align="center">Senior Full Stack Engineer | Backend-Focused | Production Systems Builder</h3>
+<h3 align="center">Full Stack Engineer | Backend-Focused | Production Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architecture+Specialist;FastAPI+%7C+Node.js+Developer;10%2B+Deployed+Production+Projects;1000%2B+GitHub+Contributions" />

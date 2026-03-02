@@ -1,64 +1,119 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shashank Soni</h1>
+<h3 align="center">Senior Full Stack Engineer | Backend-Focused | Production Systems Builder</h3>
 
-<!--
-**shashanksoni815/shashanksoni815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 💫 About Me: -->
-🌱 I'm currently pursuing a B-Tech in Electronics and Communication with a focus on Computer Science Engineering, Skilled in web development, with a focus on MERN stack technologies, and equipped with problem-solving and analytical abilities. <br>
-⚡ Proficient in front-end and back-end technologies, including React.js, Node.js, MongoDB, and Express.js. <br>
-🔭 Actively seeking opportunities to apply my skills in modern web development frameworks and contribute to impactful projects. <br>
-<!--🔭 I’m currently working on Web Development <br>
-
- 👯 I’m looking to collaborate on<br> 
-🤝 I’m looking for help with<br> 
-
-💬 Ask me about<br>
-⚡ Fun fact 
-🌱 I’m currently learning MERN Stack<br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shashanksoni_88582) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shashank_sonii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-soni815) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) -->
-<!--# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=shashanksoni815&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashanksoni815&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> --> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashanksoni815&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksoni815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architecture+Specialist;FastAPI+%7C+Node.js+Developer;10%2B+Deployed+Production+Projects;1000%2B+GitHub+Contributions" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashanksoni815&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+## 🚀 About Me
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashanksoni815&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksoni815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--### ✍️ Random Dev Quote
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashanksoni815&theme=radical&no-frame=false&no-bg=true&margin-w=4)  -->
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shashanksoni815&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+- 🔥 2+ Years of consistent development
+- 🏗 15+ Production-level repositories
+- 🌍 10+ Deployed Full Stack Applications
+- 🧠 Strong foundation in Data Structures & Algorithms (Java)
+- ⚡ Backend-first mindset with scalable system design
+- 🛠 Building Admin & User Panel architectures
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashanksoni815&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</p>
+
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+---
+
+## 🧠 Engineering Strengths
+
+- Clean Architecture & Service Layer Pattern
+- JWT Authentication & Role-based Access
+- Centralized Error Handling
+- RESTful API Design
+- Production Deployment Handling
+- Structured Folder Architecture
+- Workflow & Automation Systems
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashanksoni815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksoni815&theme=tokyonight" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksoni815&layout=compact&theme=tokyonight" />
+</p> -->
+---
+
+## 🏗 Production Experience
+
+- 🔹 Full Stack SaaS Applications (Admin + User Panels)
+- 🔹 Backend APIs with structured architecture
+- 🔹 Automation & workflow-driven systems
+- 🔹 Data scraping and processing pipelines
+- 🔹 Production-ready authentication systems
+
+---
+
+## 🎯 Current Focus
+
+- System scalability improvements
+- Advanced backend architecture patterns
+- Workflow automation
+- Performance optimization
+
+---
+
+## 🏆 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashanksoni815&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shashank-soni815" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+</a>
+<a href="mailto:YOUR-EMAIL">
+<img align="center" src="https://skillicons.dev/icons?i=shashanksoni815@gmail.com" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Building scalable systems, not just projects.
+</p>

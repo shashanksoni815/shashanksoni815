@@ -107,7 +107,7 @@
 <a href="https://linkedin.com/in/shashank-soni815" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:shashanksoni815@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=shashanksoni815@gmail.com" height="30" width="40" />
 </a>
 </p>
